@@ -1,0 +1,1 @@
+> Bu repo, yazılım mühendisliğinde gelişmeler-4 dersinde yaptığım yaptığım çalışmaları, öğrendiğim kavramları ve geliştirdiğim uygulamaları içermektedir.
